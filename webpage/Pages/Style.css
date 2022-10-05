@@ -1,0 +1,58 @@
+Style.css
+<style h1="head/css">
+		h1{
+			color: firebrick  ;
+			font-size: 40px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: justify;
+			text-decoration: underline;
+		}
+	</style>
+		
+	<style p1="p1/css">
+		p1{
+			color: fuchsia;
+			font-size: 40px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: center;
+	
+		}
+		p2{
+			color: darkgoldenrod;
+			font-size: 40px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: right;
+		}
+		body{
+			background-color: black;
+		}
+		table{
+			color: white;
+			
+		}
+		ul{
+			color: green;
+		}
+		
+	</style>
+
+    <style h1="head/css">
+		h1{
+			color: firebrick  ;
+			font-size: 40px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: justify;
+		}
+		h2{
+			color: green;
+			font-size: 35px;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: justify;
+		}
+		body{
+			background-color: black;
+		}
+	</style>
+
+    css:#img{ position: static;
+    }
